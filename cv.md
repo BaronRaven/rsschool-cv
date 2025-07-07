@@ -48,7 +48,7 @@ public class Gun : MonoBehaviour
 
 ## Languages
 
- * Russain
- * Ukrainian
- * Englis
- * French
+ * Russain - Native
+ * Ukrainian - Native
+ * English - B2
+ * French - A2
